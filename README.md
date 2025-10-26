@@ -5,7 +5,7 @@
 是llcodinggames.netlify.app哦
 [点这里!!!](https://llcodinggames.netlify.app/)
 
-# 为啥域名这么长?
+### 为啥域名这么长?
 主要Ryoushi kid还是个小雪参，没有m买域名qwq
 
 ### Markdown Updating...
